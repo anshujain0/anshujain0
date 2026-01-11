@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Anshu 👋
 
-<!--
-**anshujain0/anshujain0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Information Technology student (2026) with a strong interest in
+building clean, scalable, and maintainable web applications.
 
-Here are some ideas to get you started:
+I enjoy working across the web stack using React and MERN-style architectures,
+and I have also explored blockchain-based projects to understand decentralized
+systems. I actively improve my skills by building projects and contributing
+to open-source codebases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** JavaScript (ES6+), PHP
+- **Front-end:** React, Next.js, HTML5, CSS3
+- **Back-end:** Node.js, WordPress
+- **Database:** MySQL
+- **Other:** Git, GitHub, Blockchain fundamentals
+
+---
+
+### 🌱 Currently Learning
+- Advanced React patterns
+- WordPress theme & plugin development
+- Writing review-ready open-source contributions
+
+---
+
+### 🤝 Open Source & Collaboration
+- Interested in contributing to open-source projects
+- Focus on readable, well-documented, and secure code
+- Comfortable explaining code logic and decisions
+
+---
+
+### 📫 Contact
+- Email: jainanshu814@gmail.com
+- GitHub: https://github.com/anshujain0
+- LinkedIn: https://www.linkedin.com/in/anshu-jain-639aj/
